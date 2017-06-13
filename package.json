@@ -1,0 +1,26 @@
+{
+  "name": "number-formatter",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlalande/number-formatter.git"
+  },
+  "author": "Jean Lalande <jeanlalande@gmail.com> (http://jlalande.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jlalande/number-formatter/issues"
+  },
+  "homepage": "https://github.com/jlalande/number-formatter#readme",
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "devDependencies": {
+    "chai": "~4.0.2",
+    "mocha": "~3.4.2"
+  }
+}
