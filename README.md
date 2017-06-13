@@ -1,5 +1,7 @@
 # Number Formatter
 
+[![Build Status](https://travis-ci.org/jlalande/number-formatter.svg?branch=master)](https://travis-ci.org/jlalande/number-formatter)
+
 A small library that adds commas to numbers
 
 See https://medium.com/@jdaudier/how-to-create-and-publish-your-first-node-js-module-444e7585b738
